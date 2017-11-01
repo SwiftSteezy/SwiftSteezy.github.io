@@ -1,9 +1,10 @@
-# SwiftSteezy.github.io
+#SwiftSteezy
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>SwiftSteezy</title>
+  <h1>SwiftSteezy</h1>
   
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet"> 
